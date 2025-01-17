@@ -4,7 +4,7 @@ This project is a single-page application (SPA) built with **React.js**. It is d
 
 ## Live Demo  
 
-[Click here](https://frameworkstart.vercel.app/contact) to view the live demo.
+[Click here](https://frameworkstart.vercel.app/) to view the live demo.
 
 
 ## Technologies Used  
