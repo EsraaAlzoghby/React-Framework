@@ -1,8 +1,13 @@
-# React + Vite
+# Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a single-page application (SPA) built with **React.js**. It is designed to provide a responsive and visually appealing layout with a clean and intuitive interface.
 
-Currently, two official plugins are available:
+## Live Demo  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Click here](https://frameworkstart.vercel.app/contact) to view the live demo.
+
+
+## Technologies Used  
+
+- **React.js**  
+- **Bootstrap** 
