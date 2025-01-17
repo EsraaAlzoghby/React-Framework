@@ -1,0 +1,117 @@
+.bg-main {
+  background-color: #FDD985;
+}
+*{
+  font-family: "Merienda", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.editText{
+  color: #FDD985;
+}
+/*! >>>>>>>>>>>>>>>> Start Navbar <<<<<<<<<<<<<<<<< */
+.bg-nav {
+  background: #2c3e50 !important;
+}
+.navbar-nav .nav-item .nav-link.active {
+  background-color: #FDD985;
+  border-radius: 0.5rem;
+  color: #000 !important;
+}
+.nav-item .nav-link {
+  color: #fff !important;
+}
+/*! >>>>>>>>>>>>>>>> End Navbar <<<<<<<<<<<<<<<<< */
+/*? >>>>>>>>>>>>>>>> Start Home <<<<<<<<<<<<<<<<< */
+figure img {
+  vertical-align: middle;
+}
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: #000;
+}
+.home {
+  padding-bottom: 90px;
+}
+/*? >>>>>>>>>>>>>>>> End Home <<<<<<<<<<<<<<<<< */
+
+/*? >>>>>>>>>>>>>>>> Start About <<<<<<<<<<<<<<<<< */
+.about-text p{
+  padding: 20px;
+}
+.about{
+  padding-top: 150px !important;
+  padding-bottom: 150px !important;
+}
+/*? >>>>>>>>>>>>>>>> End About <<<<<<<<<<<<<<<<< */
+/*! >>>>>>>>>>>>>>>> Start Portfolio <<<<<<<<<<<<<<<<< */
+.line2 {
+  height: 4px;
+  width: 80px;
+  background-color: #000;
+}
+.portfolio{
+  padding-top: 100px !important;
+  padding-bottom: 150px !important;
+}
+.portfolio .row .portfolio-img .layer{
+  cursor: pointer;
+  transition: 0.6s !important;
+}
+.portfolio .row .portfolio-img:hover .layer{
+  opacity: 0.9 !important;
+  background-color: hsl(42, 97%, 76% , 0.68);
+}
+.pic2{
+  vertical-align: middle;
+  width: 600px;
+  margin-top: 80px !important;
+}
+/*! >>>>>>>>>>>>>>>> End Portfolio <<<<<<<<<<<<<<<<< */
+/*? >>>>>>>>>>>>>>>> Start Contact <<<<<<<<<<<<<<<<< */
+.form-control:focus {
+  box-shadow: none !important;
+}
+.bg-green{
+  background-color: #FDD985;
+}
+.bor{
+  border-color: #FDD985 !important;
+}
+/*? >>>>>>>>>>>>>>>> End About <<<<<<<<<<<<<<<<< */
+/*? >>>>>>>>>>>>>>>> NotFound <<<<<<<<<<<<<<<*/
+.NotFound{
+  padding-top: 150px !important;
+  padding-bottom: 150px !important;
+  background-color: #FDD985;
+  color: #000;
+}
+/*! >>>>>>>>>>>>>>>> Start Footer <<<<<<<<<<<<<<<<< */
+.bg-footer {
+  background-color: #2c3e50;
+  padding: 60px;
+}
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px white solid;
+  border-radius: 50%;
+  font-weight: 400;
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  margin: 0px 5px;
+  transition: 0.7s;
+}
+.social-icon:hover{
+  background-color: #FDD985;
+  color: #000;
+  border-color: #000;
+}
+.bg-bottom{
+  background-color: #1a252f;
+}
+/*! >>>>>>>>>>>>>>>> End Footer <<<<<<<<<<<<<<<<< */
